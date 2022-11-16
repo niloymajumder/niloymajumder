@@ -1,5 +1,5 @@
 # 💫 About Me:
-I do code to get frustrated
+Hi, it's Niloy from Kepler552b
 
 
 ## 🌐 Socials:
