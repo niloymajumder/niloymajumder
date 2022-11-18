@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, it's Niloy from Kepler552b
+<h2 align="center">Hi, it's Niloy from Kepler552b</h2>
 
 
 ## 🌐 Socials:
