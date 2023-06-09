@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="center">Hi, it's Niloy from Kepler552b</h2>
+<h2 align="center">Niloy Majumder aka Bluefloyd</h2>
 
 
 ## 🌐 Socials:
