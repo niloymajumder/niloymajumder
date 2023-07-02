@@ -4,7 +4,7 @@
 
 - Competitive Programmer | Game Dev | Geek Enthusiast
 - I'm currently working in @Fusion
-- Styding in Computer Science at [University of Asia Pacific](https://www.uap-bd.edu/)
+- Stuyding in Computer Science and Engineering (CSE) at [University of Asia Pacific](https://www.uap-bd.edu/)
 
 [![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
 
