@@ -11,8 +11,6 @@
 [![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
 
 
-## Reach me at - niloymajumder1862@gmail.com
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niloy.does.nothing) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niloymajumder_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niloymajumder) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20199503/niloy-majumder) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/783238818991177758) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/j267yb4ggu527y1ocgrmq4k8u?si=23806257a4a24f84)
 
