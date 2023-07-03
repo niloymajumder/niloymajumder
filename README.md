@@ -3,8 +3,8 @@
 <h2 align="center">Niloy Majumder aka Bluefloyd</h2>
 
 - Geek Enthutiast | Game Dev | Competitive Programmer
-- I'm currently working in @Fusion
-- Styding in Computer Science at [University of Asia Pacific](https://www.uap-bd.edu/)
+- I'm currently working at @Fusion
+- Studying in Computer Science & Engineering at [University of Asia Pacific](https://www.uap-bd.edu/)
 
 [![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
 
