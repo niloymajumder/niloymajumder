@@ -18,7 +18,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Niloy%20Majumder-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@niloymajumder)](https://medium.com/@niloymajumder)
 [![Polywork Badge](https://img.shields.io/badge/-niloymajumder-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/niloymajumder)](http://polywork.com/niloymajumder).
 [![Stack Overflow](https://img.shields.io/badge/-niloymajumder-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20199503/niloy-majumder)](https://stackoverflow.com/users/20199503/niloy-majumder).
-[![Instagram](https://img.shields.io/badge/niloymajumder_-%53E4405F.svg?logo=Instagram&logoColor=white=https://instagram.com/niloymajumder_)](https://instagram.com/niloymajumder_)
+[![Instagram](https://img.shields.io/badge/niloymajumder_-white.svg?logo=Instagram&logoColor=white=https://instagram.com/niloymajumder_)](https://instagram.com/niloymajumder_)
 
 
 # 💻Tech Stack
