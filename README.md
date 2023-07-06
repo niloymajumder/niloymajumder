@@ -16,8 +16,8 @@
 [![Linkedin: Niloy Majumder](https://img.shields.io/badge/-Niloy%20Majumder-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niloymajumder/)](https://www.linkedin.com/in/niloymajumder/)
 [![Twitter: Niloy Majumder](https://img.shields.io/twitter/follow/bluefloyd07_?style=social)](https://twitter.com/bluefloyd07_)
 [![Medium Badge](https://img.shields.io/badge/-@Niloy%20Majumder-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@niloymajumder)](https://medium.com/@niloymajumder)
-[![Polywork Badge](https://img.shields.io/badge/-niloymajumder-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/niloymajumder)](http://polywork.com/niloymajumder).
-[![Stack Overflow](https://img.shields.io/badge/-niloymajumder-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20199503/niloy-majumder)](https://stackoverflow.com/users/20199503/niloy-majumder).
+[![Polywork Badge](https://img.shields.io/badge/-niloymajumder-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/niloymajumder)](http://polywork.com/niloymajumder)
+[![Stack Overflow](https://img.shields.io/badge/-niloymajumder-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/20199503/niloy-majumder)](https://stackoverflow.com/users/20199503/niloy-majumder)
 [![Instagram](https://img.shields.io/badge/niloymajumder_-%23f04a3e.svg?logo=Instagram&logoColor=White=https://instagram.com/niloymajumder_)](https://instagram.com/niloymajumder_)
 
 
