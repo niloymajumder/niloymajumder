@@ -5,7 +5,7 @@
 </p>
 
 - Geek Enthutiast | Game Dev | Competitive Programmer
-- I'm currently working at @Fusion
+- I'm currently learning Game Development
 - Studying in Computer Science & Engineering at [University of Asia Pacific](https://www.uap-bd.edu/)
 
 [![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
