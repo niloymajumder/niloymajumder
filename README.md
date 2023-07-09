@@ -1,6 +1,6 @@
 [![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
 ### 👋🏻 About me
-Hi, I'm Niloy Majumder, a pseudo-introvert, a newb Game Developer & Geek Enthutiast. Always open to collaborating on projects and start-up ideas. I'm studying in Computer Science & Engineering at [University of Asia Pacific](https://www.uap-bd.edu/). 
+Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm studying Computer Science & Engineering at [University of Asia Pacific](https://www.uap-bd.edu/). I'm always open to collaborating on projects and start-up ideas. 
 
 * **Currently working on**: Building [Fusion](https://playfusion.netlify.app/)
 * **Currently learning tech**: Indie Game Gevelopment, JS Framework.
