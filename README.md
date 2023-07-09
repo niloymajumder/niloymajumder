@@ -9,20 +9,17 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, a newb Game Developer & Geek Enthuti
 * **Let's bond over:** Alt/Indie Music, Philosophy, Filmmaking, Art, Literature.
 
 #### 👀 Where to find me?
-* [Twitter](https://twitter.com/bluefloyd07)
-* [LinkedIn](https://linkedin.com/in/niloymajumder) 
-* [Email](mailto://niloy.majumder@outlook.com)
-* [Dev.to](https://dev.to/bluefloyd)
+* [Twitter](https://twitter.com/bluefloyd07) - tech, react, ts, and game development.
+* [LinkedIn](https://linkedin.com/in/niloymajumder) - to connect one-on-one and career updates.
+* [Email](mailto://niloy.majumder@outlook.com) - for any queries & collaboration.
+* [Dev.to](https://dev.to/bluefloyd) - will be starting my tech journey blogs very soon.
 * [Polywork](https://www.polywork.com/niloymajumder)
-* [Stack Overflow](https://stackoverflow.com/users/20199503/niloy-majumder)
-* More on [niloymajumder.github.io](https://niloymajumder.github.io/)
+* [Stack Overflow](https://stackoverflow.com/users/20199503/niloy-majumder) - i need your help!
+* More on [niloymajumder.github.io](https://niloymajumder.github.io/) - coming soon
 
 #### 🛠️ Relevant Projects
 * [Fusion](https://playfusion.netlify.app/) (2023 - Ongoing) - A free and open-source web music player to connect all music streaming platfrom at once.
 * [Findme](https://usefindme.vercel.app/) (2023 - Ongoing) - A free social media handles sharing platform.
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/)
 
-<h3> align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/niloymajumder/count.svg" />
-</h3>
+[![](https://visitcount.itsvg.in/api?id=niloymajumder&icon=2&color=0)](https://visitcount.itsvg.in)
