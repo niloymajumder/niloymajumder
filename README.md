@@ -3,8 +3,8 @@
 Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm studying Computer Science & Engineering at [University of Asia Pacific](https://www.uap-bd.edu/). I'm always open to collaborating on projects and start-up ideas. 
 
 * **Currently working on**: Building [Fusion](https://playfusion.netlify.app/)
-* **Currently learning tech**: Indie Game Gevelopment, JS Framework.
-* **I Speak:** English, Bangla, C/C++, Python.
+* **Currently learning tech**: Indie Game Gevelopment
+* **I Speak:** English, Bangla, C/C++, HTML, CSS
 * **Talk to me about:** Game Development, Full-Stack Software Development, UI/UX Design, and Startups.
 * **Let's bond over:** Alt/Indie Music, Philosophy, Filmmaking, Art, Literature.
 
