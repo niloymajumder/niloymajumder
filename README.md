@@ -4,7 +4,7 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutias
 
 * **Currently working on**: Building [Fusion](https://playfusion.netlify.app/)
 * **Currently learning tech**: Indie Game Gevelopment
-* **I Speak:** English, Bangla, C/C++, HTML, CSS
+* **I Speak:** English, Bangla, C/C++, C#
 * **Talk to me about:** Game Development, Full-Stack Software Development, UI/UX Design, and Startups.
 * **Let's bond over:** Alt/Indie Music, Philosophy, Filmmaking, Art, Literature.
 
