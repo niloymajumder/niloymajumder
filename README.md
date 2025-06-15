@@ -1,32 +1,24 @@
 [![@niloymajumder's Holopin board](https://holopin.io/api/user/board?user=niloymajumder)](https://holopin.io/@niloymajumder)
+### 👋🏻 About me
+Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm always open to collaborating on projects and start-up ideas. 
 
-### 👋 About Me  
-Hi, I’m Niloy Majumder — pseudo-introvert, noob game developer, and geek enthusiast.  
-Open to collaborating on projects and startups.
+* **Currently working on**: Building [Curator](https://github.com/niloymajumder/Curator)
+* **Currently learning tech**: Indie Game Gevelopment
+* **I Speak:** English, Bangla, C/C++, Java
+* **Talk to me about:** Game Development, Full-Stack Software Development, UI/UX Design, and Startups.
+* **Let's bond over:** Alt/Indie Music, Philosophy, Filmmaking, Art, Literature.
 
-**Currently working on:** [Curator](https://github.com/niloymajumder/Curator)  
-**Currently learning:** Indie game development  
-**Languages:** English, Bangla, C/C++, Java  
-**Interests:** Game development, full-stack dev, UI/UX design, startups  
-**Let’s bond over:** Alt/indie music, philosophy, filmmaking, art, literature  
+#### 👀 Where to find me?
+* [LinkedIn](https://linkedin.com/in/niloymajumderr) - to connect one-on-one and career updates.
+* [Email](mailto://niloy.majumder@outlook.com) - for any queries & collaboration.
+* [Dev.to](https://dev.to/bluefloyd) - will be starting my tech journey blogs very soon.
+* [Polywork](https://www.polywork.com/niloymajumder) - To know my development progresses.
+* [Stack Overflow](https://stackoverflow.com/users/20199503/niloy-majumder) - i need your help!
+* More on [niloymajumder.github.io](https://niloymajumder.github.io/) - will be updated very soon!
 
----
-
-### 📫 Find Me  
-- [LinkedIn](https://linkedin.com/in/niloymajumderr)  
-- [Email](mailto:niloy.majumder@outlook.com)  
-- [Dev.to](https://dev.to/bluefloyd) (tech blogs coming soon)  
-- [Polywork](https://www.polywork.com/niloymajumder)  
-- [Stack Overflow](https://stackoverflow.com/users/20199503/niloy-majumder)  
-- [Website](https://niloymajumder.github.io/) (updating soon)  
-
----
-
-### 🛠️ Projects  
-- [Fusion](https://playfusion.netlify.app/) — Open-source web music player (2023–ongoing)  
-- [Findme](https://usefindme.vercel.app/) — Social media handles sharing platform (2023–ongoing)  
-- More on [niloymajumder.github.io](https://niloymajumder.github.io/)  
-
----
+#### 🛠️ Relevant Projects
+* [Fusion](https://playfusion.netlify.app/) (2023 - Ongoing) - A free and open-source web music player to connect all music streaming platfrom at once.
+* [Findme](https://usefindme.vercel.app/) (2023 - Ongoing) - A free social media handles sharing platform.
+* More on [niloymajumder.github.io](https://niloymajumder.github.io/)
 
 [![](https://visitcount.itsvg.in/api?id=niloymajumder&icon=2&color=0)](https://visitcount.itsvg.in)
