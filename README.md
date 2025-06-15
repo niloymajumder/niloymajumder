@@ -27,7 +27,6 @@ Open to collaborating on projects and startups.
 - [Findme](https://usefindme.vercel.app/) — Social media handles sharing platform (2023–ongoing)  
 - More on [niloymajumder.github.io](https://niloymajumder.github.io/)  
 
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=niloymajumder&icon=2&color=0)](https://visitcount.itsvg.in)
