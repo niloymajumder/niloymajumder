@@ -2,7 +2,7 @@
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm always open to collaborating on projects and start-up ideas. 
 
-* **Currently working on**: Building [Curated](https://github.com/niloymajumder/Curated)
+* **Currently working on**: Building [Curator](https://github.com/niloymajumder/Curator)
 * **Currently learning tech**: Indie Game Gevelopment
 * **I Speak:** English, Bangla, C/C++, Java
 * **Talk to me about:** Game Development, Full-Stack Software Development, UI/UX Design, and Startups.
