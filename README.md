@@ -11,7 +11,7 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutias
 #### 👀 Where to find me?
 * [LinkedIn](https://linkedin.com/in/niloymajumderr) - to connect one-on-one and career updates.
 * [Email](mailto://niloy.majumder@outlook.com) - for any queries & collaboration.
-* [Dev.to](https://dev.to/bluefloyd) - will be starting my tech journey blogs very soon.
+* [Dev.to](https://dev.to/bluefloyd) - read my blogs here.
 * [Polywork](https://www.polywork.com/niloymajumder) - To know my development progresses.
 * [Stack Overflow](https://stackoverflow.com/users/20199503/niloy-majumder) - i need your help!
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/) - will be updated very soon!
