@@ -1,4 +1,4 @@
-![github_banner-01](https://github.com/user-attachments/assets/102aa856-eb12-488b-9bea-58463eed7e7c)
+![github_banner-01](https://github.com/user-attachments/assets/17bd23ca-5d6f-43b1-a91e-7cf819af80ab)
 
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie developer. I enjoy turning ideas into thoughtful products. I'm always open to collaborating on projects and start-up ideas. 
