@@ -1,4 +1,4 @@
-![Resume_v4-01](https://github.com/user-attachments/assets/8eb7bd8b-6934-499a-91e8-6bac89090280)
+![bio](https://github.com/user-attachments/assets/23940c4d-82d3-4bef-ba18-265352291cbc)
 
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm always open to collaborating on projects and start-up ideas. 
