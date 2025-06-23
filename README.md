@@ -22,5 +22,3 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 * [Fusion](https://playfusion.netlify.app/) (2023 - Ongoing) - An AI-powered web music player that unites all music streaming platforms in one place.
 * [Findme](https://usefindme.vercel.app/) (2023 - 2025) - A free All-in-one social media handles sharing platform.
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/)
-
-![Visitor Count](https://profile-counter.glitch.me/{niloymajumder}/count.svg)
