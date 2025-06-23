@@ -23,4 +23,4 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 * [Findme](https://usefindme.vercel.app/) (2023 - 2025) - A free All-in-one social media handles sharing platform.
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/)
 
-[![](https://visitcount.itsvg.in/api?id=niloymajumder&icon=2&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{niloymajumder}/count.svg)
