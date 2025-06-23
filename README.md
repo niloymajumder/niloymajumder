@@ -1,4 +1,4 @@
-![bio](https://github.com/user-attachments/assets/23940c4d-82d3-4bef-ba18-265352291cbc)
+![Adobe Express - file (2)](https://github.com/user-attachments/assets/f7297cf3-4271-4ebc-add2-bdd9dba61e02)
 
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-introvert, noob Game Developer & Geek Enthutiast. I'm always open to collaborating on projects and start-up ideas. 
