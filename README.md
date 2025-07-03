@@ -12,6 +12,7 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 #### 👀 Where to find me?
 * [LinkedIn](https://linkedin.com/in/niloymajumderr) - to connect one-on-one and career updates.
 * [Email](mailto://niloymajumderr@gmail.com) - for any queries & collaboration.
+* [Behance](https://www.behance.net/niloymajumder) - design stuffs
 * [Dev.to](https://dev.to/bluefloyd) - read my tech blogs here.
 * [Substack](https://niloymajumder.substack.com/) - sometimes I speak through my words, read my writings here.
 * [Twitter/X](https://x.com/paperfrog71) - for DMs and convos
