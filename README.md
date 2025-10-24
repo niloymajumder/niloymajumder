@@ -3,10 +3,10 @@
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie developer. I enjoy turning ideas into thoughtful products. I'm always open to collaborating on projects and start-up ideas. 
 
-* **Currently working on**: Building [Curator](https://github.com/niloymajumder/Curator)
-* **Currently learning tech**: ReactJS, Python
-* **I Speak:** English, Bangla, C/C++, Java (Basic)
-* **Talk to me about:** Game Development, Full-Stack Software Development, UI/UX Design, and Startups.
+* **Currently working on**: Building [Scrappy](https://github.com/niloymajumder/Scrappy)
+* **Currently learning tech**: Python, ML
+* **I Speak:** English, Bangla, C/C++, Java
+* **Talk to me about:** Full-Stack Software Development, UI/UX Design, AI/ML, and Startups.
 * **Let's bond over:** Alt/Indie Music, Philosophy, Human Psychology, Filmmaking, Art, Literature.
 
 #### 👀 Where to find me?
