@@ -9,13 +9,6 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 * **Talk to me about:** Indie Development, UI/UX Design, AI/ML, Games, and Startups.
 * **Let's bond over:** Alt/Indie Music, Philosophy, Human Psychology, Design , Art, Literature.
 
-#### 🛠️ Relevant Projects
-* [Scrappy](https://github.com/niloymajumder/Scrappy) (2025 - Present) - An AI-powered marketplace that makes recycling smarter, simpler, and community-driven
-* [Curator](https://github.com/niloymajumder/Curator) (2025 - Present) - A platform for all the undergrads to excel from their studies to their careers — currently in its Pre-Alpha stage.
-* [Fusion](https://playfusion.netlify.app/) (2023 - Ongoing) - it can be your music companion.
-* [Findme](https://usefindme.vercel.app/) (2023 - 2025) - All-in-one social media handles sharing platform.
-* More on [niloymajumder.github.io](https://niloymajumder.github.io/)
-
 #### 👀 Where to find me?
 * [LinkedIn](https://linkedin.com/in/niloymajumderr) - to connect one-on-one and career updates.
 * [Email](mailto://niloymajumderr@gmail.com) - for any queries & collaboration.
@@ -24,3 +17,10 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 * [Substack](https://niloymajumder.substack.com/) - sometimes I speak through my words, read my writings here.
 * [Twitter/X](https://x.com/paperfrog71) - for DMs and convos
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/) - will be updated very soon!
+
+#### 🛠️ Relevant Projects
+* [Scrappy](https://github.com/niloymajumder/Scrappy) (2025 - Present) - An AI-powered marketplace that makes recycling smarter, simpler, and community-driven
+* [Curator](https://github.com/niloymajumder/Curator) (2025 - Present) - A platform for all the undergrads to excel from their studies to their careers — currently in its Pre-Alpha stage.
+* [Fusion](https://playfusion.netlify.app/) (2023 - Ongoing) - it can be your music companion.
+* [Findme](https://usefindme.vercel.app/) (2023 - 2025) - All-in-one social media handles sharing platform.
+* More on [niloymajumder.github.io](https://niloymajumder.github.io/)
