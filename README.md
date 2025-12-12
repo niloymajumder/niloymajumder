@@ -5,9 +5,9 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 
 * **Currently working on**: Building [Scrappy](https://github.com/niloymajumder/Scrappy)
 * **Currently learning**: Python, ML/AI, Deep Learning
-* **I Know:** English, Bangla, C/C++, Java, Python
-* **Talk to me about:** Indie Development, UI/UX Design, AI/ML, Games, and Startups.
-* **Let's bond over:** Alt/Indie Music, Philosophy, Human Psychology, Design , Art, Literature.
+* **Language**: English, Bangla, C/C++, Java, Python
+* **Talk to me about**: Indie Development, UI/UX Design, AI/ML, Games, and Startups.
+* **Let's bond over**: Alt/Indie Music, Philosophy, Human Psychology, Design , Art, Literature.
 
 #### 👀 Where to find me?
 * [LinkedIn](https://linkedin.com/in/niloymajumderr) - to connect one-on-one and career updates.
