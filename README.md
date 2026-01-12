@@ -3,7 +3,7 @@
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie developer. I enjoy turning ideas into thoughtful products. I'm always open to collaborating on projects and start-up ideas. 
 
-* **Currently working on**: Building [Fusion](https://github.com/paperfrogs-hq/fusion)
+* **Currently working on**: Building **[Fusion](https://github.com/paperfrogs-hq/fusion)**
 * **Currently learning**: Python, ML/AI, Deep Learning
 * **Language**: English, Bangla, C/C++, Java, Python
 * **Talk to me about**: Indie Development, UI/UX Design, AI/ML, Games, and Startups.
@@ -20,7 +20,7 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 
 #### 🛠️ Relevant Projects
 * [Fusion](https://fusion.paperfrogs.dev) (2023 - Ongoing) - Cryptographic audio provenance infrastructure
+* [Melody Noir](https://github.com/niloymajumder/melody-noir) (2025 | [Preview](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir)) - Melody Noir is a calm, cinematic dark theme inspired by a Patrick Watson song Melody Noir.
 * [Scrappy](https://github.com/niloymajumder/Scrappy) (2025 - Present) - An AI-powered marketplace that makes recycling smarter, simpler, and community-driven
 * [Curator](https://github.com/niloymajumder/Curator) (2025 - Present) - A platform for all the undergrads to excel from their studies to their careers — currently in its Pre-Alpha stage.
-* [Findme](https://usefindme.vercel.app/) (2023 - 2025) - All-in-one social media handles sharing platform.
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/)
