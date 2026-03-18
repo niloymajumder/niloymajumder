@@ -20,7 +20,7 @@ Hi, I'm Niloy Majumder, a pseudo-introvert, product designer, and indie develope
 
 #### 🛠️ Relevant Projects
 * [Fusion](https://fusion.paperfrogs.dev) (2023 - Ongoing) - Cryptographic audio provenance infrastructure
-* [Melody Noir](https://github.com/niloymajumder/melody-noir) (2025 | [Preview](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir)) - Melody Noir is a calm, cinematic dark theme inspired by a Patrick Watson song Melody Noir.
+* [Melody Noir](https://github.com/niloymajumder/melody-noir) (2025 | [Preview](https://marketplace.visualstudio.com/items?itemName=bluefloyd.melody-noir)) - A collective of VS Code themes inspired by songs,
 * [Scrappy](https://github.com/niloymajumder/Scrappy) (2025 - Present) - An AI-powered marketplace that makes recycling smarter, simpler, and community-driven
 * [Curator](https://github.com/niloymajumder/Curator) (2025 - Present) - A platform for all the undergrads to excel from their studies to their careers — currently in its Pre-Alpha stage.
 * More on [niloymajumder.github.io](https://niloymajumder.github.io/)
