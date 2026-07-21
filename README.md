@@ -3,7 +3,7 @@
 ### 👋🏻 About me
 Hi, I'm Niloy Majumder, a pseudo-product designer, ai-hci-xr researcher, and indie developer. I enjoy turning ideas into thoughtful products. I'm always open to collaborating on projects and start-up ideas. 
 
-* **Currently working on**: Building **[Paperfrogs](https://github.com/paperfrogs-hq/)**
+* **Currently building**: **[Paperfrogs](https://github.com/paperfrogs-hq/)**
 * **Currently learning**: Python, ML/AI, Deep Learning
 * **Language**: English, Bangla, C/C++, Java, Python
 * **Talk to me about**: Indie Development, UI/UX Design, AI/ML, Games, and Startups.
